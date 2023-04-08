@@ -2,7 +2,7 @@
     "name": "Telethon Music Bot",
     "description": "Music allow you to stream music trought the telegram voice chat feature Based on Telethon.",
     "keywords": ["Zaid", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
-    "repository": "https://github.com/ITZ-ZAID/Telethon-Music",
+    "repository": "https://github.com/Helpingakp/Telethon-Music",
   "stack": "container",
     "env": {
         "STRING_SESSION": {
@@ -17,7 +17,7 @@
         "CHANNEL": {
             "description": "Fill there your Channel username else leave",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "Deep_shayari"
         },
         "BOT_USERNAME": {
             "description": "Fill there your bot username",
